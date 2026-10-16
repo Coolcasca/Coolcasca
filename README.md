@@ -1,16 +1,23 @@
-## Hi there 👋
+# Trishnaa Maharjan
 
-<!--
-**Coolcasca/Coolcasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./casca.gif" width="100%" alt="Casca from Berserk" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>She was never meant to be a side character.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Learning. Creating. Becoming.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <sub>夢 · Struggle, survive, continue.</sub>
+</p>
